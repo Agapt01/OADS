@@ -10,6 +10,8 @@ Whether you are running a restaurant, an e-commerce platform, or any other busin
 
 2.Usage
 
+3Technologies Used.
+
 ## 1.Features
 User Registration and Authentication: Customers can create accounts, log in securely, and manage their profiles.
 
@@ -33,3 +35,8 @@ Feedback and Ratings: Allow customers to provide feedback and ratings for produc
 4.Customers can track the order status in their account.
 
 5.Administrators can log in to the admin dashboard to manage products, orders, and deliveries.
+
+## 3Technologies Used.
+Frontend: HTML, CSS, JavaScript, Bootstrap
+Backend: Node.js, Php
+Database: MySQL
