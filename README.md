@@ -38,5 +38,7 @@ Feedback and Ratings: Allow customers to provide feedback and ratings for produc
 
 ## 3Technologies Used.
 Frontend: HTML, CSS, JavaScript, Bootstrap
+
 Backend: Node.js, Php
+
 Database: MySQL
